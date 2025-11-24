@@ -5,12 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: WirGarten Lüneburg Tapir
     url: https://mitglieder.lueneburg.wirgarten.com
+  - name: Keycloak WirGarten Lüneburg Tapir
+    url: https://kc.lueneburg.wirgarten.com
   - name: Möllers Morgen
     url: https://solawi.moellersmorgen.de
+  - name: Keycloak Möllers Morgen
+    url: https://auth.mm-prod.foodcoopx.de
   - name: Gemüsekollektiv
     url: https://solawi.gemuesekollektiv.org
+  - name: Keycloak Gemüsekollektiv
+    url: https://auth.solawi.gemuesekollektiv.org
   - name: Grüne Neune Hammelburg
     url: https://solawi.grueneneune-hammelburg.de
+  - name: Keycloak Grüne Neune Hammelburg
+    url: https://auth.solawi.grueneneune-hammelburg.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
