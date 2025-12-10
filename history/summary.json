@@ -4,28 +4,30 @@
     "url": "https://mitglieder.lueneburg.wirgarten.com",
     "icon": "https://icons.duckduckgo.com/ip3/mitglieder.lueneburg.wirgarten.com.ico",
     "slug": "wir-garten-lueneburg-tapir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1459,
-    "timeDay": 1641,
-    "timeWeek": 1439,
-    "timeMonth": 1459,
-    "timeYear": 1459,
-    "dailyMinutesDown": {}
+    "time": 1432,
+    "timeDay": 1285,
+    "timeWeek": 1375,
+    "timeMonth": 1432,
+    "timeYear": 1432,
+    "dailyMinutesDown": {
+      "2025-12-10": 1
+    }
   },
   {
     "name": "Keycloak WirGarten Lüneburg Tapir",
     "url": "https://kc.lueneburg.wirgarten.com",
     "icon": "https://icons.duckduckgo.com/ip3/kc.lueneburg.wirgarten.com.ico",
     "slug": "keycloak-wir-garten-lueneburg-tapir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
@@ -33,25 +35,28 @@
     "timeWeek": 132,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 1
+    }
   },
   {
     "name": "Möllers Morgen",
     "url": "https://solawi.moellersmorgen.de",
     "icon": "https://icons.duckduckgo.com/ip3/solawi.moellersmorgen.de.ico",
     "slug": "moellers-morgen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 1993,
-    "timeDay": 2762,
-    "timeWeek": 2077,
-    "timeMonth": 1993,
-    "timeYear": 1993,
+    "time": 1950,
+    "timeDay": 1899,
+    "timeWeek": 1947,
+    "timeMonth": 1950,
+    "timeYear": 1950,
     "dailyMinutesDown": {
+      "2025-12-10": 1,
       "2025-11-24": 32
     }
   },
@@ -60,9 +65,9 @@
     "url": "https://auth.mm-prod.foodcoopx.de",
     "icon": "https://icons.duckduckgo.com/ip3/auth.mm-prod.foodcoopx.de.ico",
     "slug": "keycloak-moellers-morgen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,25 +76,28 @@
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 0
+    }
   },
   {
     "name": "Gemüsekollektiv",
     "url": "https://solawi.gemuesekollektiv.org",
     "icon": "https://icons.duckduckgo.com/ip3/solawi.gemuesekollektiv.org.ico",
     "slug": "gemuesekollektiv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 2063,
-    "timeDay": 2826,
-    "timeWeek": 2155,
-    "timeMonth": 2063,
-    "timeYear": 2063,
+    "time": 2113,
+    "timeDay": 2970,
+    "timeWeek": 2275,
+    "timeMonth": 2113,
+    "timeYear": 2113,
     "dailyMinutesDown": {
+      "2025-12-10": 0,
       "2025-11-25": 34
     }
   },
@@ -98,9 +106,9 @@
     "url": "https://auth.solawi.gemuesekollektiv.org",
     "icon": "https://icons.duckduckgo.com/ip3/auth.solawi.gemuesekollektiv.org.ico",
     "slug": "keycloak-gemuesekollektiv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -110,6 +118,7 @@
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
+      "2025-12-10": 0,
       "2025-11-25": 34
     }
   },
@@ -118,18 +127,19 @@
     "url": "https://solawi.grueneneune-hammelburg.de",
     "icon": "https://icons.duckduckgo.com/ip3/solawi.grueneneune-hammelburg.de.ico",
     "slug": "gruene-neune-hammelburg",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 2236,
-    "timeDay": 2621,
-    "timeWeek": 2009,
-    "timeMonth": 2236,
-    "timeYear": 2236,
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 2243,
+    "timeDay": 2502,
+    "timeWeek": 2051,
+    "timeMonth": 2243,
+    "timeYear": 2243,
     "dailyMinutesDown": {
+      "2025-12-10": 0,
       "2025-12-04": 27,
       "2025-11-25": 34,
       "2025-11-24": 32
@@ -140,9 +150,9 @@
     "url": "https://auth.solawi.grueneneune-hammelburg.de",
     "icon": "https://icons.duckduckgo.com/ip3/auth.solawi.grueneneune-hammelburg.de.ico",
     "slug": "keycloak-gruene-neune-hammelburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,6 +161,8 @@
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 0
+    }
   }
 ]
