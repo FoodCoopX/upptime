@@ -4,19 +4,19 @@
     "url": "https://mitglieder.lueneburg.wirgarten.com",
     "icon": "https://icons.duckduckgo.com/ip3/mitglieder.lueneburg.wirgarten.com.ico",
     "slug": "wir-garten-lueneburg-tapir",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1658,
-    "timeDay": 1387,
-    "timeWeek": 2641,
-    "timeMonth": 1685,
+    "timeDay": 1524,
+    "timeWeek": 2532,
+    "timeMonth": 1684,
     "timeYear": 1658,
     "dailyMinutesDown": {
-      "2025-12-27": 0
+      "2025-12-27": 12
     }
   },
   {
