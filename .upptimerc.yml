@@ -7,18 +7,58 @@ sites:
     url: https://mitglieder.lueneburg.wirgarten.com
   - name: Keycloak WirGarten Lüneburg Tapir
     url: https://kc.lueneburg.wirgarten.com
+  - name: WirGarten Lüneburg BestellWizard
+    url: https://mitglieder.lueneburg.wirgarten.com/tapir/register
+   
   - name: Möllers Morgen
     url: https://solawi.moellersmorgen.de
   - name: Keycloak Möllers Morgen
     url: https://auth.mm-prod.foodcoopx.de
-  - name: Gemüsekollektiv
+  - name: Möllers Morgen BestellWizard
+    url: https://solawi.moellersmorgen.de/tapir/register
+    
+  - name: Gemüsekollektiv (GKH)
     url: https://solawi.gemuesekollektiv.org
   - name: Keycloak Gemüsekollektiv
     url: https://auth.solawi.gemuesekollektiv.org
-  - name: Grüne Neune Hammelburg
+  - name: Gemüsekollektiv BestellWizard
+    url: https://solawi.gemuesekollektiv.org/tapir/register
+    
+  - name: Grüne Neune Hammelburg (G9H)
     url: https://solawi.grueneneune-hammelburg.de
   - name: Keycloak Grüne Neune Hammelburg
     url: https://auth.solawi.grueneneune-hammelburg.de
+  - name: Grüne Neune Hammelburg BestellWizard
+    url: https://solawi.grueneneune-hammelburg.de/tapir/register
+
+  - name: Ernte Union Ost (EUO)
+    url: https://solawi.ernte-union-ost.de
+  - name: Keycloak Ernte Union Ost
+    url: https://auth.solawi.ernte-union-ost.de
+  - name: Ernte Union Ost BestellWizard
+    url: https://solawi.ernte-union-ost.de/bestell_wizard/bestell_wizard_mobile
+
+  - name: Solawi Hall (HAL)
+    url: https://mitglieder.solawi-hall.de
+  - name: Keycloak Solawi Hall
+    url: https://auth.mitglieder.solawi-hall.de
+  - name: Solawi Hall BestellWizard
+    url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
+
+  - name: Humuswerkstatt (HUW)
+    url: https://solawi.humuswerkstatt.de
+  - name: Keycloak Humuswerkstatt
+    url: https://auth.mitglieder.solawi-hall.de
+  - name: Humuswerkstatt BestellWizard
+    url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
+
+  - name: Katringer Grünzeug (KGZ)
+    url: https://tapir.katringer-gruenzeug.de
+  - name: Keycloak Katringer Grünzeug
+    url: https://auth.tapir.katringer-gruenzeug.de
+  - name: Katringer Grünzeug BestellWizard
+    url: https://tapir.katringer-gruenzeug.de/bestell_wizard/bestell_wizard_mobile
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
