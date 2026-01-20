@@ -120,18 +120,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/solawi.gemuesekollektiv.org.ico",
     "slug": "gemuesekollektiv-gkh",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
+    "uptime": "98.65%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 1992,
     "timeDay": 1328,
     "timeWeek": 2001,
     "timeMonth": 1992,
     "timeYear": 1992,
     "dailyMinutesDown": {
-      "2026-01-20": 37,
+      "2026-01-20": 71,
       "2026-01-19": 69
     }
   },
@@ -162,18 +162,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/solawi.gemuesekollektiv.org.ico",
     "slug": "gemuesekollektiv-bestell-wizard",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.32%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 538,
     "timeDay": 472,
     "timeWeek": 537,
     "timeMonth": 538,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2026-01-20": 37
+      "2026-01-20": 71
     }
   },
   {
@@ -399,19 +399,19 @@
     "url": "https://tapir.katringer-gruenzeug.de",
     "icon": "https://icons.duckduckgo.com/ip3/tapir.katringer-gruenzeug.de.ico",
     "slug": "katringer-gruenzeug-kgz",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 1668,
-    "timeDay": 1220,
-    "timeWeek": 1576,
-    "timeMonth": 1668,
-    "timeYear": 1668,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 1652,
+    "timeDay": 1270,
+    "timeWeek": 1566,
+    "timeMonth": 1652,
+    "timeYear": 1652,
     "dailyMinutesDown": {
-      "2026-01-20": 25
+      "2026-01-20": 59
     }
   },
   {
@@ -439,19 +439,19 @@
     "url": "https://tapir.katringer-gruenzeug.de/bestell_wizard/bestell_wizard_mobile",
     "icon": "https://icons.duckduckgo.com/ip3/tapir.katringer-gruenzeug.de.ico",
     "slug": "katringer-gruenzeug-bestell-wizard",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 148,
-    "timeDay": 137,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 145,
+    "timeDay": 133,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-01-20": 25
+      "2026-01-20": 59
     }
   }
 ]
