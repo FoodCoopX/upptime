@@ -1,7 +1,7 @@
 url: https://solawi.humuswerkstatt.de
-status: up
-code: 200
-responseTime: 1286
-lastUpdated: 2026-01-21T23:28:13.115Z
+status: down
+code: 502
+responseTime: 597
+lastUpdated: 2026-01-22T11:31:27.208Z
 startTime: 2026-01-13T12:00:23.831Z
 generator: Upptime <https://github.com/upptime/upptime>
