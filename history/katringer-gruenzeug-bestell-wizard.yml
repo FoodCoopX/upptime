@@ -1,7 +1,7 @@
-url: https://tapir.katringer-gruenzeug.de/bestell_wizard/bestell_wizard_mobile
-status: up
-code: 200
-responseTime: 173
-lastUpdated: 2026-02-18T11:52:56.001Z
+url: https://solawi.leistenmuehle.de/bestell_wizard/bestell_wizard_mobile
+status: down
+code: 502
+responseTime: 156
+lastUpdated: 2026-02-18T11:53:04.510Z
 startTime: 2026-01-13T12:00:30.181Z
 generator: Upptime <https://github.com/upptime/upptime>
