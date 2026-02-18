@@ -66,13 +66,6 @@ sites:
   - name: BestellWizard Leistenmühle (LEM)
     url: https://solawi.leistenmuehle.de/bestell_wizard/bestell_wizard_mobile
 
-  - name: Tapir Solawi Hall (HAL)
-    url: https://mitglieder.solawi-hall.de
-  - name: Keycloak Solawi Hall (HAL)
-    url: https://auth.mitglieder.solawi-hall.de
-  - name: BestellWizard Solawi Hall (HAL)
-    url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
