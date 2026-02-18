@@ -45,27 +45,33 @@ sites:
   - name: Solawi Hall BestellWizard
     url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
 
-  - name: Humuswerkstatt (HUW)
+  - name: Tapir Humuswerkstatt (HUW)
     url: https://solawi.humuswerkstatt.de
   - name: Keycloak Humuswerkstatt
     url: https://auth.mitglieder.solawi-hall.de
   - name: Humuswerkstatt BestellWizard
     url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
 
-  - name: Katringer Grünzeug (KGZ)
+  - name: Tapir Katringer Grünzeug (KGZ)
     url: https://tapir.katringer-gruenzeug.de
   - name: Keycloak Katringer Grünzeug
     url: https://auth.tapir.katringer-gruenzeug.de
-  - name: Katringer Grünzeug BestellWizard
+  - name: BestellWizard Katringer Grünzeug
     url: https://tapir.katringer-gruenzeug.de/bestell_wizard/bestell_wizard_mobile
 
-  - name: Leistenmühle (LEM)
+  - name: Tapir Leistenmühle (LEM)
     url: https://solawi.leistenmuehle.de
-  - name: Keycloak Katringer Grünzeug
+  - name: Keycloak Leistenmühle (LEM)
     url: https://auth.solawi.leistenmuehle.de
-  - name: Katringer Grünzeug BestellWizard
+  - name: BestellWizard Leistenmühle (LEM)
     url: https://solawi.leistenmuehle.de/bestell_wizard/bestell_wizard_mobile
 
+  - name: Tapir Solawi Hall (HAL)
+    url: https://mitglieder.solawi-hall.de
+  - name: Keycloak Solawi Hall (HAL)
+    url: https://auth.mitglieder.solawi-hall.de
+  - name: BestellWizard Solawi Hall (HAL)
+    url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
