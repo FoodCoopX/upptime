@@ -59,6 +59,13 @@ sites:
   - name: Katringer Grünzeug BestellWizard
     url: https://tapir.katringer-gruenzeug.de/bestell_wizard/bestell_wizard_mobile
 
+  - name: Leistenmühle (LEM)
+    url: https://solawi.leistenmuehle.de
+  - name: Keycloak Katringer Grünzeug
+    url: https://auth.solawi.leistenmuehle.de
+  - name: Katringer Grünzeug BestellWizard
+    url: https://solawi.leistenmuehle.de/bestell_wizard/bestell_wizard_mobile
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
