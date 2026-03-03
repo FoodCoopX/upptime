@@ -1,7 +1,7 @@
 url: https://solawi.grueneneune-hammelburg.de
-status: up
-code: 200
-responseTime: 1744
-lastUpdated: 2026-03-03T08:56:30.618Z
+status: down
+code: 500
+responseTime: 896
+lastUpdated: 2026-03-03T11:46:24.235Z
 startTime: 2026-01-13T12:00:13.194Z
 generator: Upptime <https://github.com/upptime/upptime>
