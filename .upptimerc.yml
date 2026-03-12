@@ -65,6 +65,12 @@ sites:
   url: https://auth.tapir.solawi-ghb.de
 - name: Solawi Großhöchberg e.V. BestellWizard
   url: https://tapir.solawi-ghb.de/bestell_wizard/bestell_wizard_mobile
+- name: Demo2 Biotop Oberland (DEMO2)
+  url: https://demo2.foodcoopx.de
+- name: Keycloak Demo2 Biotop Oberland
+  url: https://auth.demo2.foodcoopx.de
+- name: Demo2 Biotop Oberland BestellWizard
+  url: https://demo2.foodcoopx.de/bestell_wizard/bestell_wizard_mobile
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
