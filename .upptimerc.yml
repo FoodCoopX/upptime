@@ -1,85 +1,81 @@
-# Change these first
-owner: FoodCoopX # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: FoodCoopX
+repo: upptime
 sites:
-  - name: WirGarten Lüneburg Tapir
-    url: https://mitglieder.lueneburg.wirgarten.com
-  - name: Keycloak WirGarten Lüneburg Tapir
-    url: https://kc.lueneburg.wirgarten.com
-  - name: WirGarten Lüneburg BestellWizard
-    url: https://mitglieder.lueneburg.wirgarten.com/tapir/register
-   
-  - name: Möllers Morgen
-    url: https://solawi.moellersmorgen.de
-  - name: Keycloak Möllers Morgen
-    url: https://auth.mm-prod.foodcoopx.de
-  - name: Möllers Morgen BestellWizard
-    url: https://solawi.moellersmorgen.de/tapir/register
-    
-  - name: Gemüsekollektiv (GKH)
-    url: https://solawi.gemuesekollektiv.org
-  - name: Keycloak Gemüsekollektiv
-    url: https://auth.solawi.gemuesekollektiv.org
-  - name: Gemüsekollektiv BestellWizard
-    url: https://solawi.gemuesekollektiv.org/tapir/register
-    
-  - name: Grüne Neune Hammelburg (G9H)
-    url: https://solawi.grueneneune-hammelburg.de
-  - name: Keycloak Grüne Neune Hammelburg
-    url: https://auth.solawi.grueneneune-hammelburg.de
-  - name: Grüne Neune Hammelburg BestellWizard
-    url: https://solawi.grueneneune-hammelburg.de/tapir/register
-
-  - name: Ernte Union Ost (EUO)
-    url: https://solawi.ernte-union-ost.de
-  - name: Keycloak Ernte Union Ost
-    url: https://auth.solawi.ernte-union-ost.de
-  - name: Ernte Union Ost BestellWizard
-    url: https://solawi.ernte-union-ost.de/bestell_wizard/bestell_wizard_mobile
-
-  - name: Solawi Hall (HAL)
-    url: https://mitglieder.solawi-hall.de
-  - name: Keycloak Solawi Hall
-    url: https://auth.mitglieder.solawi-hall.de
-  - name: Solawi Hall BestellWizard
-    url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
-
-  - name: Tapir Humuswerkstatt (HUW)
-    url: https://solawi.humuswerkstatt.de
-  - name: Keycloak Humuswerkstatt
-    url: https://auth.mitglieder.solawi-hall.de
-  - name: Humuswerkstatt BestellWizard
-    url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
-
-  - name: Tapir Katringer Grünzeug (KGZ)
-    url: https://tapir.katringer-gruenzeug.de
-  - name: Keycloak Katringer Grünzeug
-    url: https://auth.tapir.katringer-gruenzeug.de
-  - name: BestellWizard Katringer Grünzeug
-    url: https://tapir.katringer-gruenzeug.de/bestell_wizard/bestell_wizard_mobile
-
-  - name: Tapir Leistenmühle (LEM)
-    url: https://solawi.leistenmuehle.de
-  - name: Keycloak Leistenmühle (LEM)
-    url: https://auth.solawi.leistenmuehle.de
-  - name: BestellWizard Leistenmühle (LEM)
-    url: https://solawi.leistenmuehle.de/bestell_wizard/bestell_wizard_mobile
-
+- name: WirGarten Lüneburg Tapir
+  url: https://mitglieder.lueneburg.wirgarten.com
+- name: Keycloak WirGarten Lüneburg Tapir
+  url: https://kc.lueneburg.wirgarten.com
+- name: WirGarten Lüneburg BestellWizard
+  url: https://mitglieder.lueneburg.wirgarten.com/tapir/register
+- name: Möllers Morgen
+  url: https://solawi.moellersmorgen.de
+- name: Keycloak Möllers Morgen
+  url: https://auth.mm-prod.foodcoopx.de
+- name: Möllers Morgen BestellWizard
+  url: https://solawi.moellersmorgen.de/tapir/register
+- name: Gemüsekollektiv (GKH)
+  url: https://solawi.gemuesekollektiv.org
+- name: Keycloak Gemüsekollektiv
+  url: https://auth.solawi.gemuesekollektiv.org
+- name: Gemüsekollektiv BestellWizard
+  url: https://solawi.gemuesekollektiv.org/tapir/register
+- name: Grüne Neune Hammelburg (G9H)
+  url: https://solawi.grueneneune-hammelburg.de
+- name: Keycloak Grüne Neune Hammelburg
+  url: https://auth.solawi.grueneneune-hammelburg.de
+- name: Grüne Neune Hammelburg BestellWizard
+  url: https://solawi.grueneneune-hammelburg.de/tapir/register
+- name: Ernte Union Ost (EUO)
+  url: https://solawi.ernte-union-ost.de
+- name: Keycloak Ernte Union Ost
+  url: https://auth.solawi.ernte-union-ost.de
+- name: Ernte Union Ost BestellWizard
+  url: https://solawi.ernte-union-ost.de/bestell_wizard/bestell_wizard_mobile
+- name: Solawi Hall (HAL)
+  url: https://mitglieder.solawi-hall.de
+- name: Keycloak Solawi Hall
+  url: https://auth.mitglieder.solawi-hall.de
+- name: Solawi Hall BestellWizard
+  url: https://mitglieder.solawi-hall.de/bestell_wizard/bestell_wizard_mobile
+- name: Tapir Katringer Grünzeug (KGZ)
+  url: https://tapir.katringer-gruenzeug.de
+- name: Keycloak Katringer Grünzeug
+  url: https://auth.tapir.katringer-gruenzeug.de
+- name: BestellWizard Katringer Grünzeug
+  url: https://tapir.katringer-gruenzeug.de/bestell_wizard/bestell_wizard_mobile
+- name: Tapir Leistenmühle (LEM)
+  url: https://solawi.leistenmuehle.de
+- name: Keycloak Leistenmühle (LEM)
+  url: https://auth.solawi.leistenmuehle.de
+- name: BestellWizard Leistenmühle (LEM)
+  url: https://solawi.leistenmuehle.de/bestell_wizard/bestell_wizard_mobile
+- name: Keycloak Humuswerkstatt eG
+  url: https://auth.solawi.humuswerkstatt.de
+- name: Humuswerkstatt eG BestellWizard
+  url: https://solawi.humuswerkstatt.de/bestell_wizard/bestell_wizard_mobile
+- name: Solawi Alfter (ALF)
+  url: https://tapir.solawi-alfter.de
+- name: Keycloak Solawi Alfter Team
+  url: https://auth.tapir.solawi-alfter.de
+- name: Solawi Alfter Team BestellWizard
+  url: https://tapir.solawi-alfter.de/bestell_wizard/bestell_wizard_mobile
+- name: Solawi Großhöchberg e.V. (GHB)
+  url: https://tapir.solawi-ghb.de
+- name: Keycloak Solawi Großhöchberg e.V.
+  url: https://auth.tapir.solawi-ghb.de
+- name: Solawi Großhöchberg e.V. BestellWizard
+  url: https://tapir.solawi-ghb.de/bestell_wizard/bestell_wizard_mobile
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered
+    entirely by GitHub.'
+  introMessage: This is a sample status page which uses **real-time** data from our
+    [GitHub repository](https://github.com/upptime/upptime). No server required —
+    just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  - title: Status
+    href: /
+  - title: GitHub
+    href: https://github.com/$OWNER/$REPO
