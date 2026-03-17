@@ -1,7 +1,7 @@
 url: https://tapir.solawi-alfter.de
-status: up
-code: 200
-responseTime: 2221
-lastUpdated: 2026-03-16T23:34:24.326Z
+status: down
+code: 500
+responseTime: 970
+lastUpdated: 2026-03-17T15:34:55.787Z
 startTime: 2026-03-12T13:41:11.038Z
 generator: Upptime <https://github.com/upptime/upptime>
