@@ -1,7 +1,7 @@
 url: https://demo2.foodcoopx.de/bestell_wizard/bestell_wizard_mobile
-status: up
-code: 200
-responseTime: 178
-lastUpdated: 2026-03-17T23:35:32.771Z
+status: down
+code: 502
+responseTime: 124
+lastUpdated: 2026-03-18T14:51:39.185Z
 startTime: 2026-03-12T17:57:38.958Z
 generator: Upptime <https://github.com/upptime/upptime>
