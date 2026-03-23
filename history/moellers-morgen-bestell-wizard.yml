@@ -1,7 +1,7 @@
 url: https://solawi.moellersmorgen.de/tapir/register
-status: down
-code: 502
-responseTime: 98
-lastUpdated: 2026-03-23T10:13:21.023Z
+status: up
+code: 200
+responseTime: 526
+lastUpdated: 2026-03-23T10:37:59.810Z
 startTime: 2026-01-13T12:00:08.884Z
 generator: Upptime <https://github.com/upptime/upptime>
