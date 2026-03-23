@@ -1,7 +1,7 @@
 url: https://demo2.foodcoopx.de
-status: up
-code: 200
-responseTime: 116
-lastUpdated: 2026-03-23T10:13:43.175Z
+status: down
+code: 502
+responseTime: 915
+lastUpdated: 2026-03-23T16:38:34.163Z
 startTime: 2026-03-12T17:57:31.886Z
 generator: Upptime <https://github.com/upptime/upptime>
