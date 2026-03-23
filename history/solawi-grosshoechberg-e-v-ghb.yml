@@ -1,7 +1,7 @@
 url: https://tapir.solawi-ghb.de
-status: up
-code: 200
-responseTime: 1777
-lastUpdated: 2026-03-22T23:31:11.668Z
+status: down
+code: 500
+responseTime: 848
+lastUpdated: 2026-03-23T05:17:18.607Z
 startTime: 2026-03-12T13:41:14.251Z
 generator: Upptime <https://github.com/upptime/upptime>
