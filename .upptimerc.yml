@@ -86,6 +86,4 @@ status-website:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
 
-notifications:
-  - type: mail
-    to: "ops@foodcoopx.de"
+
