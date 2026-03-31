@@ -1,7 +1,7 @@
 url: https://solawi.ernte-union-ost.de/bestell_wizard/bestell_wizard_mobile
-status: down
-code: 500
-responseTime: 120
-lastUpdated: 2026-03-31T08:42:37.816Z
+status: up
+code: 200
+responseTime: 125
+lastUpdated: 2026-03-31T09:47:33.492Z
 startTime: 2026-01-13T12:00:20.007Z
 generator: Upptime <https://github.com/upptime/upptime>
