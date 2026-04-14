@@ -88,4 +88,4 @@ status-website:
 
 notifications:
   - type: mail
-    to: "ops@foodcoopx.de"
+    to: "ops@foodcoopx.de,marcus@foodcoopx.de"
