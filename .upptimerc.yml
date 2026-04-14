@@ -71,8 +71,6 @@ sites:
   url: https://auth.demo2.foodcoopx.de
 - name: Demo2 Biotop Oberland BestellWizard
   url: https://demo2.foodcoopx.de/bestell_wizard/bestell_wizard_mobile
-- name: SMTP Test (delete me)
-  url: https://this-site-does-not-exist-xyz.invalid
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
