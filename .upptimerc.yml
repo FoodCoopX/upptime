@@ -19,12 +19,6 @@ sites:
   url: https://auth.solawi.gemuesekollektiv.org
 - name: Gemüsekollektiv BestellWizard
   url: https://solawi.gemuesekollektiv.org/tapir/register
-- name: Grüne Neune Hammelburg (G9H)
-  url: https://solawi.grueneneune-hammelburg.de
-- name: Keycloak Grüne Neune Hammelburg
-  url: https://auth.solawi.grueneneune-hammelburg.de
-- name: Grüne Neune Hammelburg BestellWizard
-  url: https://solawi.grueneneune-hammelburg.de/tapir/register
 - name: Ernte Union Ost (EUO)
   url: https://solawi.ernte-union-ost.de
 - name: Keycloak Ernte Union Ost
