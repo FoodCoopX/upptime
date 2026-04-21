@@ -1,7 +1,7 @@
 url: https://mitglieder.lueneburg.wirgarten.com/tapir/register
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2026-04-21T05:37:14.717Z
+status: down
+code: 500
+responseTime: 144
+lastUpdated: 2026-04-21T18:22:08.861Z
 startTime: 2026-01-13T12:00:05.892Z
 generator: Upptime <https://github.com/upptime/upptime>
