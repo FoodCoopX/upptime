@@ -1,7 +1,7 @@
 url: https://solawi.leistenmuehle.de
-status: up
-code: 200
-responseTime: 3113
-lastUpdated: 2026-04-29T23:56:06.167Z
+status: down
+code: 500
+responseTime: 1927
+lastUpdated: 2026-04-30T22:13:14.498Z
 startTime: 2026-02-18T12:26:39.890Z
 generator: Upptime <https://github.com/upptime/upptime>
