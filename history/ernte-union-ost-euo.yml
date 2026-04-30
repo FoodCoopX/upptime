@@ -1,7 +1,7 @@
 url: https://solawi.ernte-union-ost.de
-status: up
-code: 200
-responseTime: 1647
-lastUpdated: 2026-04-29T23:55:56.533Z
+status: down
+code: 500
+responseTime: 823
+lastUpdated: 2026-04-30T22:12:53.532Z
 startTime: 2026-01-13T12:00:16.831Z
 generator: Upptime <https://github.com/upptime/upptime>
