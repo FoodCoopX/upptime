@@ -1,7 +1,7 @@
 url: https://mitglieder.solawi-hall.de
-status: up
-code: 200
-responseTime: 1790
-lastUpdated: 2026-04-29T23:55:59.196Z
+status: down
+code: 500
+responseTime: 791
+lastUpdated: 2026-04-30T22:12:59.957Z
 startTime: 2026-01-13T12:00:20.592Z
 generator: Upptime <https://github.com/upptime/upptime>
