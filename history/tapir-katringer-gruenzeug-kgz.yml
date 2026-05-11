@@ -1,7 +1,7 @@
 url: https://tapir.katringer-gruenzeug.de
-status: up
-code: 200
-responseTime: 2693
-lastUpdated: 2026-05-10T23:54:30.931Z
+status: down
+code: 500
+responseTime: 1009
+lastUpdated: 2026-05-11T23:43:41.468Z
 startTime: 2026-02-18T12:26:37.006Z
 generator: Upptime <https://github.com/upptime/upptime>
