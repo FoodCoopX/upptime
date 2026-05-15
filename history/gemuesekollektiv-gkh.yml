@@ -1,7 +1,7 @@
 url: https://solawi.gemuesekollektiv.org
-status: up
-code: 200
-responseTime: 2298
-lastUpdated: 2026-05-14T23:58:56.533Z
+status: down
+code: 500
+responseTime: 1615
+lastUpdated: 2026-05-15T23:15:24.742Z
 startTime: 2026-01-13T12:00:09.731Z
 generator: Upptime <https://github.com/upptime/upptime>
