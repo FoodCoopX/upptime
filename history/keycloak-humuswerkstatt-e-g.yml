@@ -1,7 +1,7 @@
 url: https://auth.solawi.humuswerkstatt.de
-status: down
-code: 502
-responseTime: 439
-lastUpdated: 2026-05-28T00:03:23.554Z
+status: up
+code: 200
+responseTime: 474
+lastUpdated: 2026-05-28T08:16:38.548Z
 startTime: 2026-03-12T13:41:09.006Z
 generator: Upptime <https://github.com/upptime/upptime>
