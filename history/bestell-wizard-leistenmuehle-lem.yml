@@ -1,7 +1,7 @@
 url: https://solawi.leistenmuehle.de/bestell_wizard/bestell_wizard_mobile
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-28T00:03:06.940Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2026-05-28T08:16:32.806Z
 startTime: 2026-02-18T12:26:43.398Z
 generator: Upptime <https://github.com/upptime/upptime>
