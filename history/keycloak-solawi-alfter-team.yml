@@ -1,7 +1,7 @@
 url: https://auth.tapir.solawi-alfter.de
-status: down
-code: 502
-responseTime: 574
-lastUpdated: 2026-05-28T00:04:13.294Z
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2026-05-28T08:16:55.921Z
 startTime: 2026-03-12T13:41:13.172Z
 generator: Upptime <https://github.com/upptime/upptime>
